@@ -7,6 +7,10 @@ Hands-on networking labs using Cisco Packet Tracer covering CCNA fundamentals su
 
 This repository contains hands-on networking labs built using Cisco Packet Tracer. The labs are designed to develop practical skills in networking fundamentals aligned with CCNA-level concepts.
 
+
+![Simple Home Network Screenshot](simple-home-network/simple-network-screenshot.png)
+
+
 ## 🎯 Goals
 
 * Build real networking scenarios
